@@ -1,2 +1,2 @@
 # ED-Gay
-EDCAN Game Engine
+EDCAN Cross Platform Game Engine
